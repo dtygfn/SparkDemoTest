@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c09eeed-61c4-46d9-b8f9-2a49f0865a78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/test/StudentTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day06/sparksql/SQLWordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day06/sparksql/SQLWordCount$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +16,7 @@
     <session id="1932080035">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
@@ -58,7 +55,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="7347" />
-          <entry key="scala" value="3484" />
+          <entry key="scala" value="3488" />
           <entry key="txt" value="16" />
           <entry key="xml" value="1" />
         </counts>
@@ -67,7 +64,7 @@
         <counts>
           <entry key="JAVA" value="7347" />
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Scala" value="3484" />
+          <entry key="Scala" value="3488" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -90,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/test/StudentTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+            <state relative-caret-position="241">
+              <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
               <folding>
                 <element signature="e#14#45#0" expanded="true" />
               </folding>
@@ -207,7 +204,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="812" />
@@ -256,13 +253,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="backg&#9;ACTION&#9;Images.SetBackgroundImage&#10;backgrou&#9;ACTION&#9;Images.SetBackgroundImage" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549931949190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549932197279" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -404,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547803501816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="包括常用的spark案例">
+      <created>1549932025995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549932025995</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -450,7 +454,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -458,13 +461,13 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.38962767" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21860817" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Messages" order="5" visible="true" weight="0.32136753" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32136753" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32820514" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.4974359" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.3298611" />
@@ -836,8 +839,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/test/StudentTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+        <state relative-caret-position="241">
+          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
           <folding>
             <element signature="e#14#45#0" expanded="true" />
           </folding>
